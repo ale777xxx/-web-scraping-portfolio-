@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+*.log
+*.sqlite3
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Outputs
+output/
+outputs/
+*.xlsx
+*.csv
+*.jsonl
+*.zip

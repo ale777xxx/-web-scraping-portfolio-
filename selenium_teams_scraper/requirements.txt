@@ -1,0 +1,7 @@
+selenium>=4.23.0
+undetected-chromedriver>=3.5.5
+webdriver-manager>=4.0.2
+beautifulsoup4>=4.12.2
+pandas>=2.2.2
+python-dateutil>=2.9.0
+tenacity>=8.4.1
