@@ -71,7 +71,7 @@ docker run --rm -it -v $PWD:/app scraping-portfolio bash
 ## 🤝 Contact
 
 - **GitHub:** https://github.com/ale777xxx
-- **Email:** your.email@example.com
+- **Email:** alexandershumniy@gmail.com
 
 ---
 
